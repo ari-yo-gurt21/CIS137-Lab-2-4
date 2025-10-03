@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  Lab2_4
 //
-//  Created by Ari Lee on 10/3/25.
+//  Created by Ari Lee and David Deng on 10/3/25.
 //
 
 import SwiftUI
