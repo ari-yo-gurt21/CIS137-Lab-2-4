@@ -1,6 +1,11 @@
 //
 //  ContentView.swift
 //  Lab2_4
+
+//  Lab #2
+//  Group #4
+//  Ari Lee, David Deng
+//  October 3, 2025
 //
 //  Created by Ari Lee and David Deng on 10/3/25.
 //
